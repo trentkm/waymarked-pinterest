@@ -236,7 +236,7 @@ Topic: `$NTFY_TOPIC` — test with `curl -s -d "test" ntfy.sh/$NTFY_TOPIC`
 
 Pinterest access token expires every 30 days. The skill file has auto-refresh logic using the app credentials stored in `.env`. If the refresh token itself expires (60 days), re-authorize via OAuth:
 
-1. Open: `https://www.pinterest.com/oauth/?client_id=1545073&redirect_uri=https://localhost/&response_type=code&scope=user_accounts:read,pins:read,pins:write,boards:read`
+1. Open: `https://www.pinterest.com/oauth/?client_id=1545073&redirect_uri=https://localhost/&response_type=code&scope=user_accounts:read,pins:read,pins:write,boards:read,boards:write`
 2. Copy the `code=` from the redirect URL
 3. Exchange: `curl -X POST https://api.pinterest.com/v5/oauth/token -H "Content-Type: application/x-www-form-urlencoded" -u "APP_ID:APP_SECRET" -d "grant_type=authorization_code&code=CODE&redirect_uri=https://localhost/"`
 4. Save new tokens to `.pinterest-token` and `.pinterest-refresh-token`

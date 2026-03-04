@@ -1497,12 +1497,162 @@
       "pin_board": "Travel Gift Ideas",
       "description_angle": "gift_for",
       "image_path": "/Users/trent/waymarked-pinterest/exports/gen_032.png",
+      "pin_link": "https://waymarked.com/blog/best-travel-gifts-2026",
       "pinterest_url": "https://pinterest.com/pin/1111544751851321961",
       "status": "posted",
       "rejection_reason": null,
       "created_at": "2026-03-02T15:04:53Z",
       "approved_at": "2026-03-02T15:10:00Z",
       "posted_at": "2026-03-02T15:10:16Z"
+    },
+    {
+      "id": "gen_033",
+      "date": "2026-03-04",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "region": "Europe",
+      "style": "monochrome",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "stamp",
+      "titlePosition": "bottom",
+      "qrStyle": "classy",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "name": "Amsterdam"
+        },
+        {
+          "lat": 51.9244,
+          "lng": 4.4777,
+          "name": "Rotterdam"
+        },
+        {
+          "lat": 51.4416,
+          "lng": 5.4697,
+          "name": "Eindhoven"
+        },
+        {
+          "lat": 53.2194,
+          "lng": 6.5665,
+          "name": "Groningen"
+        }
+      ],
+      "title": "Canals and Sky",
+      "pin_title": "Custom Travel Map of the Netherlands | Personalized Travel Keepsake",
+      "pin_description": "Your Netherlands photos deserve more than a camera roll. Amsterdam canals, Rotterdam skyline, Groningen's hidden charm. Turn your Dutch trip into a custom map you can frame. waymarked.com/create",
+      "pin_board": "Custom Travel Maps",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_033.png",
+      "pin_link": "https://waymarked.com/create",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "monochrome x title color contrast: black title gets lost in black and white style. Would be a winner with a contrasting title color.",
+      "created_at": "2026-03-04T00:00:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_034",
+      "date": "2026-03-04",
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "region": "South America",
+      "style": "seraphs-canvas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "script",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 5,
+      "markers": [
+        {
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "name": "Buenos Aires"
+        },
+        {
+          "lat": -32.8908,
+          "lng": -68.8272,
+          "name": "Mendoza"
+        },
+        {
+          "lat": -24.7859,
+          "lng": -65.4117,
+          "name": "Salta"
+        },
+        {
+          "lat": -41.1335,
+          "lng": -71.3103,
+          "name": "Bariloche"
+        }
+      ],
+      "title": "Tango and Malbec",
+      "pin_title": "Custom Travel Map of Argentina | Travel Wall Art",
+      "pin_description": "Gallery wall idea: a custom map of Argentina's endless contrasts. Tango in Buenos Aires, wine in Mendoza, glaciers near Bariloche. Travel wall art at waymarked.com/create",
+      "pin_board": "Places to Visit in 2026",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_034.png",
+      "pin_link": "https://waymarked.com/create",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "seraphs-canvas x continental zoom: style needs city/street-level detail to shine. At country zoom (zoom 5), the ornate rendering loses its appeal. Large continental destinations need tighter zoom or a different style.",
+      "created_at": "2026-03-04T00:00:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_035",
+      "date": "2026-03-04",
+      "country": "South Korea",
+      "city": "Seoul",
+      "region": "Asia",
+      "style": "dusty-rose-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "script",
+      "titlePosition": "top",
+      "qrStyle": "classic",
+      "zoom": 8,
+      "markers": [
+        {
+          "lat": 37.5665,
+          "lng": 126.978,
+          "name": "Seoul"
+        },
+        {
+          "lat": 35.1796,
+          "lng": 129.0756,
+          "name": "Busan"
+        },
+        {
+          "lat": 33.4996,
+          "lng": 126.5312,
+          "name": "Jeju"
+        }
+      ],
+      "title": "Seoul in Spring",
+      "pin_title": "Custom Anniversary Map of South Korea | Romantic Travel Gift",
+      "pin_description": "Looking for a unique anniversary gift? Create a custom map of your South Korea adventure. Cherry blossoms in Seoul, coastal Busan, dreamy Jeju. Personalized travel keepsakes at waymarked.com/blog/best-honeymoon-gifts",
+      "pin_board": "Anniversary Trip Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_035.png",
+      "pin_link": "https://waymarked.com/blog/best-honeymoon-gifts",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851436569",
+      "status": "posted",
+      "rejection_reason": null,
+      "post_error": null,
+      "created_at": "2026-03-04T00:00:00Z",
+      "approved_at": "2026-03-04T00:00:00Z",
+      "posted_at": "2026-03-04T14:40:07.491130+00:00"
     }
   ],
   "countries_used": [
@@ -1537,7 +1687,10 @@
     "Chile",
     "Maldives",
     "Germany",
-    "India"
+    "India",
+    "Netherlands",
+    "Argentina",
+    "South Korea"
   ],
   "cities_used": [
     "Lisbon",
@@ -1661,7 +1814,18 @@
     "Munich",
     "Jaipur",
     "Jodhpur",
-    "Udaipur"
+    "Udaipur",
+    "Amsterdam",
+    "Rotterdam",
+    "Eindhoven",
+    "Groningen",
+    "Buenos Aires",
+    "Mendoza",
+    "Salta",
+    "Bariloche",
+    "Seoul",
+    "Busan",
+    "Jeju"
   ],
   "regions_used": [
     "Europe",
@@ -1704,20 +1868,20 @@
     "pure-terrain-land-dark"
   ],
   "boards_used": {
-    "Custom Travel Maps": 2,
+    "Custom Travel Maps": 3,
     "Travel Gift Ideas": 7,
     "Honeymoon Destinations": 6,
-    "Anniversary Trip Ideas": 4,
+    "Anniversary Trip Ideas": 5,
     "Travel Keepsakes and Wall Art": 5,
     "Travel Photography Tips": 4,
-    "Places to Visit in 2026": 4,
+    "Places to Visit in 2026": 5,
     "Gallery Wall Ideas": 6
   },
   "angles_used": {
-    "your_trip": 10,
-    "gift_for": 16,
-    "wall_art": 12
+    "your_trip": 11,
+    "gift_for": 17,
+    "wall_art": 13
   },
-  "total_generated": 32,
-  "total_posted": 16
+  "total_generated": 35,
+  "total_posted": 18
 }

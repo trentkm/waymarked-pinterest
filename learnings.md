@@ -8,18 +8,14 @@
 
 Track what works and what doesn't as **combinations**, not single variables.
 
-### Angle × Region
+### Angle × Visual Density
 
-| Angle | Region | Posted | Rejected | Rate | Notes |
-|-------|--------|--------|----------|------|-------|
-| gift_for | Europe | 6 | 1 | 86% | Only rejection was seraphs-canvas rendering issue (gen_013) |
-| gift_for | Middle East | 2 | 0 | 100% | Jordan, Turkey both strong |
-| gift_for | Asia | 1 | 1 | 50% | gen_030 Maldives rejected for zoom/composition, not angle |
-| gift_for | South America | 0 | 0 | — | Untested |
-| gift_for | Africa | 1 | 0 | 100% | India (gen_032) |
+| Angle | Visual Density | Posted | Rejected | Rate | Notes |
+|-------|---------------|--------|----------|------|-------|
+| gift_for | Any | 10 | 2 | 83% | Rejections were rendering/composition issues, not angle problems |
 | wall_art | Any | 8 | 1 | 89% | Works globally. Only rejection was rendering issue (gen_031 dark style) |
-| your_trip | Europe | 2 | 1 | 67% | Scotland OK, Austria rejected for title color (not angle) |
-| your_trip | Non-Europe | 0 | 4 | 0% | Vietnam, Bali, Peru, Australia all rejected. Angle doesn't work for exotic destinations |
+| your_trip | Dense (city zoom, road-rich areas) | 2 | 1 | 67% | Scotland city-level OK, Austria rejected for title color (not angle) |
+| your_trip | Sparse (wide zoom, ocean, open terrain) | 0 | 4 | 0% | Vietnam, Bali, Peru, Australia — all were zoomed-out views with sparse visual detail. The issue is low map density, not geography |
 
 ### Style × Destination Type
 
@@ -30,15 +26,16 @@ Track what works and what doesn't as **combinations**, not single variables.
 | Pure-terrain-land-dark | Any without labels | 0 | 1 | gen_031 Germany: dark map barren without city labels |
 | Pure-terrain-ocean-dark | Coastal/island | 0 | 1 | gen_019 Australia: landscape focus, but also had your_trip angle |
 | Sketch styles (slate-blue, terracotta) | Any | 2 | 0 | Working well so far |
-| sepia-sketch | Any | 0 | 2 | Title text unreadable on sepia backgrounds — rendering bug |
-| seraphs-canvas | Small/isolated destinations | 0 | 2 | gen_013 Czech Republic, gen_030 Maldives — style needs large/varied terrain to shine |
-| seraphs-canvas | Large/continental | 0 | 0 | Untested — worth trying |
+| sepia-sketch | Any | 0 | 2 | Title contrast bug — style is beautiful but title text unreadable. Fix: use title style with background/cartouche for contrast |
+| seraphs-canvas | Low density (sparse terrain, wide zoom) | 0 | 3 | gen_013 Czech Republic, gen_030 Maldives, gen_034 Argentina (country zoom). Style's ornate detail needs visual density to shine — try at city/street zoom level |
+| monochrome | Any | 0 | 1 | gen_033 Netherlands — black title loses contrast on B&W map. Rendering issue: needs contrasting title color |
 
 ### Rendering Issues (bugs, not taste)
 
 These are technical problems, not style/destination preferences:
 
-- **sepia-sketch title contrast**: 2 consecutive rejections (gen_024 Switzerland, gen_025 Austria). Title text unreadable against sepia background. Quarantined until fixed.
+- **sepia-sketch title contrast**: 2 rejections (gen_024 Switzerland, gen_025 Austria). Title text unreadable against sepia background. Style is good — needs a title style with built-in contrast (cartouche, banner, etc).
+- **monochrome title contrast**: gen_033 Netherlands. Black title disappears on B&W map. Needs a light/colored title or title background.
 - **Dark terrain styles need labels enabled**: gen_031 confirmed. Without labels, dark maps look barren/empty.
 
 ## Rejection Log
@@ -54,6 +51,8 @@ These are technical problems, not style/destination preferences:
 | gen_025 | Austria | antique | your_trip | sepia/antique × rendering | Title color unreadable (antique works elsewhere — gen_008 Scotland posted) |
 | gen_030 | Maldives | seraphs-canvas | gift_for | seraphs-canvas × island/atoll | Map too barren, too zoomed out for scattered atolls |
 | gen_031 | Germany | pure-terrain-land-dark | wall_art | dark-terrain × no labels | Dark map barren without labels |
+| gen_033 | Netherlands | monochrome | your_trip | monochrome × title contrast | Black title gets lost in black and white style. Would work with a contrasting title color. |
+| gen_034 | Argentina | seraphs-canvas | wall_art | seraphs-canvas × continental zoom | Style needs city/street-level detail. At country zoom (5), ornate rendering loses appeal. |
 
 ## Analytics Insights
 
@@ -66,6 +65,7 @@ These are technical problems, not style/destination preferences:
 
 ## Experiments
 
-- **Test seraphs-canvas with large continental destinations** — only rejected for small/isolated locations so far
-- **Test your_trip with proven European heritage sites only** — still viable for Scotland-type destinations
+- **Test seraphs-canvas at city/street zoom** — all 3 rejections were sparse/wide views. Try it on a dense city like Tokyo or Buenos Aires at zoom 11+
+- **Test your_trip with dense city maps (any region)** — past rejections correlated with sparse wide-zoom maps, not geography. Try tight zoom on visually rich non-European cities
+- **Test sepia-sketch with cartouche/banner title style** — the style is beautiful, just needs title contrast fix
 - **Monitor outbound clicks** — currently 0, smart linking should improve this

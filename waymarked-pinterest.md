@@ -38,15 +38,16 @@ If the user just says "next" or "reject" without explaining why, that is fine. M
 > These are **permanent and mandatory**. Never violate them.
 
 ### Angle Rules
-- **your_trip + non-European destinations = do not use.** 0/4 success rate (Vietnam, Bali, Peru, Australia all rejected). The narrative voice doesn't resonate for exotic/aspirational destinations. Use gift_for or wall_art instead.
 - **gift_for and wall_art are the primary angles.** Combined 79-89% success rate across all regions. Split roughly evenly between them based on board assignment.
+- **your_trip works best with visually dense maps.** Past rejections (Vietnam, Bali, Peru, Australia) correlated with low visual density (zoomed-out views, sparse road networks, open ocean). The angle can work for any region if the map has rich visual detail (tight zoom on cities, dense road networks, detailed coastlines).
 
 ### Style Rules
 - **Vintage/naturalistic styles are reliable across all regions.** vintage-treasure, parchment, forest-moss, ember-atlas, nordic-frost, rose: 8/8 posted (100%). Default to these when unsure.
 - **Dark terrain styles (pure-terrain-land-dark, pure-terrain-ocean-dark, midnight-noir) require labels enabled.** Without labels, dark maps look barren and empty.
-- **sepia-sketch is quarantined.** 2 consecutive rejections for unreadable title text. Do not use until title rendering is fixed.
+- **sepia-sketch has a title contrast bug.** 2 rejections due to unreadable title text against the sepia background. The style itself is beautiful. When using it, ensure the title has sufficient contrast (light title on dark area, or use a title style with a background/cartouche).
 
 ### Composition Rules
+- **Visual density matters more than geography.** Maps with dense road networks, city detail, and varied terrain look better than sparse open areas. When choosing zoom and framing, prioritize visual richness. A zoomed-in city anywhere in the world can be as detailed as a European map.
 - **Island/atoll destinations need tight zoom.** Scattered islands across open ocean look barren when zoomed out. Zoom in or ensure markers fill the frame.
 
 ### Link Rules
