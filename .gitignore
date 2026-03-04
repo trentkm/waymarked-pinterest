@@ -1,0 +1,21 @@
+# Secrets
+.env
+.pinterest-token
+.pinterest-refresh-token
+
+# Generated images
+exports/
+
+# Logs
+*.log
+cron.log
+
+# Runtime state
+.run-reviews
+processed-issues.txt
+
+# Claude Code
+.claude/
+
+# Analytics data (regenerated daily)
+analytics/

@@ -1,0 +1,1723 @@
+{
+  "generations": [
+    {
+      "id": "gen_001",
+      "date": "2026-02-01",
+      "country": "Portugal",
+      "city": "Lisbon",
+      "region": "Europe",
+      "style": "coastal-blue",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "markers": [
+        {
+          "lat": 38.7223,
+          "lng": -9.1393,
+          "name": "Lisbon"
+        },
+        {
+          "lat": 41.1579,
+          "lng": -8.6291,
+          "name": "Porto"
+        },
+        {
+          "lat": 37.0179,
+          "lng": -7.9308,
+          "name": "Faro"
+        }
+      ],
+      "title": "Portuguese Coast",
+      "pin_title": "Custom Travel Map of Portugal | Personalized Travel Gift",
+      "pin_description": "Your Portugal photos deserve more than a camera roll. Turn your coastal road trip into a custom map you can frame and keep forever. waymarked.com",
+      "pin_board": "Custom Travel Maps",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_001.png",
+      "pinterest_url": null,
+      "status": "approved",
+      "created_at": "2026-02-01T14:30:00Z",
+      "approved_at": "2026-02-01T19:35:00Z",
+      "posted_at": null
+    },
+    {
+      "id": "gen_002",
+      "date": "2026-02-01",
+      "country": "Japan",
+      "city": "Tokyo",
+      "region": "Asia",
+      "style": "ink-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "markers": [
+        {
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "name": "Tokyo"
+        },
+        {
+          "lat": 35.0116,
+          "lng": 135.7681,
+          "name": "Kyoto"
+        },
+        {
+          "lat": 34.6937,
+          "lng": 135.5023,
+          "name": "Osaka"
+        },
+        {
+          "lat": 35.4437,
+          "lng": 133.0634,
+          "name": "Hiroshima"
+        }
+      ],
+      "title": "Temples and Trains",
+      "pin_title": "Custom Travel Map of Japan | Personalized Travel Gift",
+      "pin_description": "You took the photos. Now turn your Japan trip into wall art. Custom travel maps from your real adventures. waymarked.com",
+      "pin_board": "Custom Travel Maps",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_002.png",
+      "pinterest_url": null,
+      "status": "approved",
+      "created_at": "2026-02-01T19:45:00Z",
+      "approved_at": "2026-02-01T19:50:00Z",
+      "posted_at": null
+    },
+    {
+      "id": "gen_003",
+      "date": "2026-02-01",
+      "country": "Morocco",
+      "city": "Marrakech",
+      "region": "Africa",
+      "style": "desert-sand",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "markers": [
+        {
+          "lat": 31.6295,
+          "lng": -7.9811,
+          "name": "Marrakech"
+        },
+        {
+          "lat": 34.0209,
+          "lng": -6.8416,
+          "name": "Rabat"
+        },
+        {
+          "lat": 33.5731,
+          "lng": -7.5898,
+          "name": "Casablanca"
+        },
+        {
+          "lat": 31.049,
+          "lng": -4.0133,
+          "name": "Merzouga"
+        }
+      ],
+      "title": "Road to Marrakech",
+      "pin_title": "Custom Travel Map of Morocco | Unique Gift for Travelers",
+      "pin_description": "Know someone who just got back from Morocco? Turn their desert adventure into a custom map they can frame. Way better than another gift card. waymarked.com",
+      "pin_board": "Travel Gift Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_003.png",
+      "pinterest_url": null,
+      "status": "approved",
+      "created_at": "2026-02-01T20:15:00Z",
+      "approved_at": "2026-02-01T20:20:00Z",
+      "posted_at": null
+    },
+    {
+      "id": "gen_004",
+      "date": "2026-02-01",
+      "country": "New Zealand",
+      "city": "Queenstown",
+      "region": "Oceania",
+      "style": "pure-terrain-land-charcoal",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": false,
+      "markers": [
+        {
+          "lat": -45.0312,
+          "lng": 168.6626,
+          "name": "Queenstown"
+        },
+        {
+          "lat": -44.6699,
+          "lng": 167.9256,
+          "name": "Milford Sound"
+        },
+        {
+          "lat": -43.5321,
+          "lng": 172.6362,
+          "name": "Christchurch"
+        },
+        {
+          "lat": -42.4504,
+          "lng": 171.2108,
+          "name": "Hokitika"
+        }
+      ],
+      "title": "South Island Dreams",
+      "pin_title": "Custom Travel Map of New Zealand | Travel Wall Art",
+      "pin_description": "Gallery wall idea: a custom map of your New Zealand adventure. Vintage style, your real trip photos, ready to frame. Travel wall art at waymarked.com",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_004.png",
+      "pinterest_url": null,
+      "status": "approved",
+      "created_at": "2026-02-01T20:45:00Z",
+      "approved_at": "2026-02-01T21:00:00Z",
+      "posted_at": null
+    },
+    {
+      "id": "gen_005",
+      "date": "2026-02-02",
+      "country": "Greece",
+      "city": "Santorini",
+      "region": "Europe",
+      "style": "ink-paper",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 36.4618,
+          "lng": 25.3753,
+          "name": "Santorini"
+        },
+        {
+          "lat": 37.4467,
+          "lng": 25.3289,
+          "name": "Mykonos"
+        },
+        {
+          "lat": 35.2401,
+          "lng": 24.8903,
+          "name": "Crete"
+        }
+      ],
+      "title": "Island Days",
+      "pin_title": "Custom Anniversary Map of Greece | Romantic Travel Gift",
+      "pin_description": "Celebrate your love story with a custom map of your Greek islands trip. The perfect anniversary gift for the traveler in your life. waymarked.com",
+      "pin_board": "Anniversary Trip Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_005.png",
+      "pinterest_url": null,
+      "status": "approved",
+      "created_at": "2026-02-02T12:00:00Z",
+      "approved_at": "2026-02-02T12:15:00Z",
+      "posted_at": null
+    },
+    {
+      "id": "gen_006",
+      "date": "2026-02-02",
+      "country": "Colombia",
+      "city": "Bogot\u00e1",
+      "region": "South America",
+      "style": "sepia",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "adventure",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 4.711,
+          "lng": -74.0721,
+          "name": "Bogot\u00e1"
+        },
+        {
+          "lat": 6.2476,
+          "lng": -75.5658,
+          "name": "Medell\u00edn"
+        },
+        {
+          "lat": 10.391,
+          "lng": -75.4794,
+          "name": "Cartagena"
+        },
+        {
+          "lat": 4.8133,
+          "lng": -75.6961,
+          "name": "Salento"
+        }
+      ],
+      "title": "Colombian Highlands",
+      "pin_title": "Custom Travel Map of Colombia | Travel Wall Art",
+      "pin_description": "Custom travel maps that actually look good on your wall. Turn your Colombia adventure into a vintage map you can frame. Travel wall art at waymarked.com",
+      "pin_board": "Travel Keepsakes and Wall Art",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_006.png",
+      "pinterest_url": null,
+      "status": "approved",
+      "created_at": "2026-02-02T14:30:00Z",
+      "approved_at": "2026-02-02T14:45:00Z",
+      "posted_at": null
+    },
+    {
+      "id": "gen_007",
+      "date": "2026-02-05",
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "region": "Asia",
+      "style": "sepia",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": false,
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 21.0285,
+          "lng": 105.8542,
+          "name": "Hanoi"
+        },
+        {
+          "lat": 15.8801,
+          "lng": 108.338,
+          "name": "Hoi An"
+        },
+        {
+          "lat": 16.0544,
+          "lng": 108.2022,
+          "name": "Da Nang"
+        },
+        {
+          "lat": 10.8231,
+          "lng": 106.6297,
+          "name": "Ho Chi Minh"
+        }
+      ],
+      "title": "Chasing Light in Vietnam",
+      "pin_title": "Custom Travel Map of Vietnam | Personalized Travel Gift",
+      "pin_description": "Remember that month in Vietnam? The lanterns, the motorbikes, the pho. Put your photos on a custom map and relive every stop. waymarked.com",
+      "pin_board": "Travel Photography Tips",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_007.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "created_at": "2026-02-05T10:30:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_008",
+      "date": "2026-02-05",
+      "country": "Scotland",
+      "city": "Edinburgh",
+      "region": "Europe",
+      "style": "antique",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": false,
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 55.9533,
+          "lng": -3.1883,
+          "name": "Edinburgh"
+        },
+        {
+          "lat": 57.4778,
+          "lng": -4.2247,
+          "name": "Inverness"
+        },
+        {
+          "lat": 56.8198,
+          "lng": -5.1052,
+          "name": "Fort William"
+        },
+        {
+          "lat": 56.4112,
+          "lng": -5.4721,
+          "name": "Isle of Mull"
+        }
+      ],
+      "title": "Highland Wanderings",
+      "pin_title": "Custom Travel Map of Scotland | Personalized Travel Gift",
+      "pin_description": "Your Scotland photos deserve more than a camera roll. Turn your highland adventure into a custom antique map you can frame. waymarked.com",
+      "pin_board": "Places to Visit in 2026",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_008.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751849775475",
+      "status": "posted",
+      "created_at": "2026-02-05T16:45:00Z",
+      "approved_at": "2026-02-05T16:26:57Z",
+      "posted_at": "2026-02-05T16:26:57Z"
+    },
+    {
+      "id": "gen_009",
+      "date": "2026-02-05",
+      "country": "Mexico",
+      "city": "Mexico City",
+      "region": "North America",
+      "style": "terracotta-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "adventure",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "name": "Mexico City"
+        },
+        {
+          "lat": 20.9674,
+          "lng": -89.5926,
+          "name": "M\u00e9rida"
+        },
+        {
+          "lat": 20.2114,
+          "lng": -87.4654,
+          "name": "Tulum"
+        },
+        {
+          "lat": 21.1619,
+          "lng": -86.8515,
+          "name": "Canc\u00fan"
+        }
+      ],
+      "title": "Colors of Mexico",
+      "pin_title": "Custom Travel Map of Mexico | Gallery Wall Art",
+      "pin_description": "Gallery wall idea: a custom map of your Mexico adventure. From ancient ruins to Caribbean beaches, turn your trip photos into art you can frame. waymarked.com",
+      "pin_board": "Gallery Wall Ideas",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_009.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751849777993",
+      "status": "posted",
+      "created_at": "2026-02-05T17:15:00Z",
+      "approved_at": "2026-02-05T17:13:27Z",
+      "posted_at": "2026-02-05T17:13:27Z"
+    },
+    {
+      "id": "gen_010",
+      "date": "2026-02-05",
+      "country": "Indonesia",
+      "city": "Bali",
+      "region": "Asia",
+      "style": "sage-green-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "script",
+      "zoom": 9,
+      "markers": [
+        {
+          "lat": -8.4095,
+          "lng": 115.1889,
+          "name": "Ubud"
+        },
+        {
+          "lat": -8.72,
+          "lng": 115.17,
+          "name": "Seminyak"
+        },
+        {
+          "lat": -8.4304,
+          "lng": 116.0417,
+          "name": "Lombok"
+        },
+        {
+          "lat": -8.7467,
+          "lng": 115.5,
+          "name": "Nusa Penida"
+        }
+      ],
+      "title": "Bali Honeymoon",
+      "pin_title": "Custom Honeymoon Map of Bali | Romantic Travel Gift",
+      "pin_description": "That Bali honeymoon was everything. Rice terraces, temples, sunsets over the ocean. Turn your photos into a custom map you can frame forever. waymarked.com",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_010.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "created_at": "2026-02-05T17:30:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_011",
+      "date": "2026-02-05",
+      "country": "Croatia",
+      "city": "Split",
+      "region": "Europe",
+      "style": "midnight-noir",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "editorial",
+      "titlePosition": "top",
+      "qrStyle": "dots",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 43.5081,
+          "lng": 16.4402,
+          "name": "Split"
+        },
+        {
+          "lat": 42.6507,
+          "lng": 18.0944,
+          "name": "Dubrovnik"
+        },
+        {
+          "lat": 45.815,
+          "lng": 15.9819,
+          "name": "Zagreb"
+        },
+        {
+          "lat": 44.1194,
+          "lng": 15.2314,
+          "name": "Zadar"
+        }
+      ],
+      "title": "Adriatic Nights",
+      "pin_title": "Custom Travel Map of Croatia | Unique Gift for Travelers",
+      "pin_description": "Know someone who just explored Croatia? Turn their Adriatic adventure into a custom map they can frame. The perfect personalized gift for any traveler. waymarked.com",
+      "pin_board": "Travel Gift Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_011.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751849780334",
+      "status": "posted",
+      "created_at": "2026-02-05T18:00:00Z",
+      "approved_at": "2026-02-05T18:12:11Z",
+      "posted_at": "2026-02-05T18:12:11Z"
+    },
+    {
+      "id": "gen_012",
+      "date": "2026-02-05",
+      "country": "Peru",
+      "city": "Lima",
+      "region": "South America",
+      "style": "explorers-atlas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "banner",
+      "titlePosition": "top",
+      "qrStyle": "classic",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "name": "Lima"
+        },
+        {
+          "lat": -13.5319,
+          "lng": -71.9675,
+          "name": "Cusco"
+        },
+        {
+          "lat": -13.1631,
+          "lng": -72.545,
+          "name": "Machu Picchu"
+        },
+        {
+          "lat": -16.409,
+          "lng": -71.5375,
+          "name": "Arequipa"
+        }
+      ],
+      "title": "Peaks of Peru",
+      "pin_title": "Custom Travel Map of Peru | Personalized Travel Gift",
+      "pin_description": "Remember that trek to Machu Picchu? The altitude, the ruins, the views. Put your Peru photos on a custom map and relive every stop. waymarked.com",
+      "pin_board": "Travel Photography Tips",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_012.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "created_at": "2026-02-05T18:30:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_013",
+      "date": "2026-02-05",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "region": "Europe",
+      "style": "seraphs-canvas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": false,
+      "markerStyle": "modern",
+      "titleStyle": "script",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 50.0755,
+          "lng": 14.4378,
+          "name": "Prague"
+        },
+        {
+          "lat": 48.8127,
+          "lng": 14.3175,
+          "name": "Cesky Krumlov"
+        },
+        {
+          "lat": 50.2316,
+          "lng": 12.872,
+          "name": "Karlovy Vary"
+        },
+        {
+          "lat": 49.1951,
+          "lng": 16.6068,
+          "name": "Brno"
+        }
+      ],
+      "title": "A Week in Bohemia",
+      "pin_title": "Custom Anniversary Map of Czech Republic | Romantic Travel Gift",
+      "pin_description": "Celebrate your love story with a custom map of your Czech adventure. Cobblestone streets, castles, thermal springs. The perfect anniversary gift. waymarked.com",
+      "pin_board": "Anniversary Trip Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_013.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "created_at": "2026-02-05T18:45:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_014",
+      "date": "2026-02-05",
+      "country": "Norway",
+      "city": "Oslo",
+      "region": "Europe",
+      "style": "earth-atlas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": false,
+      "markerStyle": "watercolor",
+      "titleStyle": "stamp",
+      "titlePosition": "top",
+      "qrStyle": "classy",
+      "zoom": 5,
+      "markers": [
+        {
+          "lat": 59.9139,
+          "lng": 10.7522,
+          "name": "Oslo"
+        },
+        {
+          "lat": 60.3913,
+          "lng": 5.3221,
+          "name": "Bergen"
+        },
+        {
+          "lat": 62.4722,
+          "lng": 6.1549,
+          "name": "Alesund"
+        },
+        {
+          "lat": 69.6496,
+          "lng": 18.956,
+          "name": "Troms\u00f8"
+        }
+      ],
+      "title": "Northern Lights Road",
+      "pin_title": "Custom Travel Map of Norway | Framed Travel Wall Art",
+      "pin_description": "Custom travel maps that actually look good on your wall. Turn your Norway road trip into a frost-toned vintage map you can frame. Travel wall art at waymarked.com",
+      "pin_board": "Travel Keepsakes and Wall Art",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_014.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751849811541",
+      "status": "posted",
+      "created_at": "2026-02-05T19:00:00Z",
+      "approved_at": "2026-02-06T06:16:15Z",
+      "posted_at": "2026-02-06T06:16:15Z"
+    },
+    {
+      "id": "gen_015",
+      "date": "2026-02-06",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "region": "Asia",
+      "style": "botanical-garden",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": false,
+      "markerStyle": "modern",
+      "titleStyle": "deco",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 13.7563,
+          "lng": 100.5018,
+          "name": "Bangkok"
+        },
+        {
+          "lat": 18.7883,
+          "lng": 98.9853,
+          "name": "Chiang Mai"
+        },
+        {
+          "lat": 7.8804,
+          "lng": 98.3923,
+          "name": "Phuket"
+        },
+        {
+          "lat": 9.1382,
+          "lng": 99.3219,
+          "name": "Koh Samui"
+        }
+      ],
+      "title": "Spice Routes",
+      "pin_title": "Custom Travel Map of Thailand | Places to Visit in 2026",
+      "pin_description": "Thailand is calling in 2026. Night markets, jungle temples, island beaches. Turn your trip into a custom map you can frame and relive every stop. waymarked.com",
+      "pin_board": "Places to Visit in 2026",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_015.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751849854652",
+      "status": "posted",
+      "created_at": "2026-02-06T22:43:25.369Z",
+      "approved_at": "2026-02-06T22:45:22Z",
+      "posted_at": "2026-02-06T22:45:22Z"
+    },
+    {
+      "id": "gen_016",
+      "date": "2026-02-11",
+      "country": "Turkey",
+      "city": "Istanbul",
+      "region": "Middle East",
+      "style": "rose",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "script",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 41.0082,
+          "lng": 28.9784,
+          "name": "Istanbul"
+        },
+        {
+          "lat": 38.6431,
+          "lng": 34.8289,
+          "name": "Cappadocia"
+        },
+        {
+          "lat": 36.8969,
+          "lng": 30.7133,
+          "name": "Antalya"
+        },
+        {
+          "lat": 37.9456,
+          "lng": 27.3638,
+          "name": "Ephesus"
+        }
+      ],
+      "title": "Turkish Honeymoon",
+      "pin_title": "Custom Honeymoon Map of Turkey | Romantic Travel Gift",
+      "pin_description": "Looking for a unique honeymoon gift? Create a custom map of your Turkey adventure. Hot air balloons, ancient ruins, turquoise coast. Personalized travel keepsake at waymarked.com",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_016.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751850171660",
+      "status": "posted",
+      "created_at": "2026-02-12T03:59:39.459Z",
+      "approved_at": "2026-02-12T04:00:51Z",
+      "posted_at": "2026-02-12T04:00:51Z"
+    },
+    {
+      "id": "gen_017",
+      "date": "2026-02-19",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "region": "Africa",
+      "style": "pure-terrain-dramatic",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "modern",
+      "titlePosition": "bottom",
+      "qrStyle": "dots",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": -33.9249,
+          "lng": 18.4241,
+          "name": "Cape Town"
+        },
+        {
+          "lat": -26.2041,
+          "lng": 28.0473,
+          "name": "Johannesburg"
+        },
+        {
+          "lat": -25.4753,
+          "lng": 30.9694,
+          "name": "Kruger"
+        },
+        {
+          "lat": -29.8587,
+          "lng": 31.0218,
+          "name": "Durban"
+        }
+      ],
+      "title": "Under African Skies",
+      "pin_title": "Custom Travel Map of South Africa | Gallery Wall Art",
+      "pin_description": "Gallery wall idea: a custom map of your South African safari. Dramatic terrain, your real trip photos, ready to frame. Travel decor at waymarked.com",
+      "pin_board": "Gallery Wall Ideas",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_017.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751850618540",
+      "status": "posted",
+      "created_at": "2026-02-19T12:00:00Z",
+      "approved_at": "2026-02-19T14:26:57Z",
+      "posted_at": "2026-02-19T14:26:57Z"
+    },
+    {
+      "id": "gen_018",
+      "date": "2026-02-19",
+      "country": "Italy",
+      "city": "Florence",
+      "region": "Europe",
+      "style": "vintage-treasure",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "titlePosition": "top",
+      "qrStyle": "classic",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 43.7696,
+          "lng": 11.2558,
+          "name": "Florence"
+        },
+        {
+          "lat": 41.9028,
+          "lng": 12.4964,
+          "name": "Rome"
+        },
+        {
+          "lat": 45.4408,
+          "lng": 12.3155,
+          "name": "Venice"
+        },
+        {
+          "lat": 40.634,
+          "lng": 14.6027,
+          "name": "Amalfi"
+        }
+      ],
+      "title": "La Dolce Vita",
+      "pin_title": "Custom Anniversary Map of Italy | Romantic Travel Gift",
+      "pin_description": "Looking for a unique anniversary gift? Create a custom map of your Italian adventure. Venice canals, Roman ruins, Tuscan sunsets. Personalized travel keepsakes at waymarked.com",
+      "pin_board": "Anniversary Trip Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_018.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751850621995",
+      "status": "posted",
+      "created_at": "2026-02-19T14:30:55.674Z",
+      "approved_at": "2026-02-19T15:31:05Z",
+      "posted_at": "2026-02-19T15:31:05Z"
+    },
+    {
+      "id": "gen_019",
+      "date": "2026-02-19",
+      "country": "Australia",
+      "city": "Sydney",
+      "region": "Oceania",
+      "style": "pure-terrain-ocean-dark",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "editorial",
+      "titlePosition": "bottom",
+      "qrStyle": "dots",
+      "zoom": 5,
+      "markers": [
+        {
+          "lat": -33.8688,
+          "lng": 151.2093,
+          "name": "Sydney"
+        },
+        {
+          "lat": -37.8136,
+          "lng": 144.9631,
+          "name": "Melbourne"
+        },
+        {
+          "lat": -16.9186,
+          "lng": 145.7781,
+          "name": "Cairns"
+        },
+        {
+          "lat": -25.3444,
+          "lng": 131.0369,
+          "name": "Uluru"
+        }
+      ],
+      "title": "Down Under",
+      "pin_title": "Custom Travel Map of Australia | Travel Photography Keepsake",
+      "pin_description": "Remember that road trip across Australia? The outback, the reef, the coast. Put your photos on a custom map and relive every kilometer. Travel keepsakes at waymarked.com",
+      "pin_board": "Travel Photography Tips",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_019.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "created_at": "2026-02-19T15:45:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_020",
+      "date": "2026-03-01",
+      "country": "Iceland",
+      "city": "Reykjavik",
+      "region": "Europe",
+      "style": "pure-terrain-cool",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "banner",
+      "titlePosition": "top",
+      "qrStyle": "classy",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 64.1466,
+          "lng": -21.9426,
+          "name": "Reykjavik"
+        },
+        {
+          "lat": 63.4186,
+          "lng": -19.006,
+          "name": "Vik"
+        },
+        {
+          "lat": 65.6835,
+          "lng": -18.0878,
+          "name": "Akureyri"
+        },
+        {
+          "lat": 64.08,
+          "lng": -16.23,
+          "name": "Jokulsarlon"
+        }
+      ],
+      "title": "Chasing Waterfalls",
+      "pin_title": "Custom Travel Map of Iceland | Unique Gift for Travelers",
+      "pin_description": "Know someone who just road-tripped around Iceland? Turn their adventure into a custom map they can frame. Way better than another gift card. waymarked.com",
+      "pin_board": "Travel Gift Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_020.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851275225",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T19:16:16.995Z",
+      "approved_at": "2026-03-01T19:18:30.007Z",
+      "posted_at": "2026-03-01T19:18:30.007Z"
+    },
+    {
+      "id": "gen_021",
+      "date": "2026-03-01",
+      "country": "France",
+      "city": "Paris",
+      "region": "Europe",
+      "style": "parchment",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "titlePosition": "top",
+      "qrStyle": "classic",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "name": "Paris"
+        },
+        {
+          "lat": 45.764,
+          "lng": 4.8357,
+          "name": "Lyon"
+        },
+        {
+          "lat": 44.8378,
+          "lng": -0.5792,
+          "name": "Bordeaux"
+        },
+        {
+          "lat": 43.7102,
+          "lng": 7.262,
+          "name": "Nice"
+        }
+      ],
+      "title": "Forever in France",
+      "pin_title": "Custom Anniversary Map of France | Romantic Travel Gift",
+      "pin_description": "Looking for a unique anniversary gift? Create a custom map of your French adventure. Paris canals, Bordeaux vineyards, the Riviera. Personalized travel keepsakes at waymarked.com",
+      "pin_board": "Anniversary Trip Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_021.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851292913",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T20:59:00Z",
+      "approved_at": "2026-03-02T01:10:00Z",
+      "posted_at": "2026-03-02T01:10:50Z"
+    },
+    {
+      "id": "gen_022",
+      "date": "2026-03-01",
+      "country": "Spain",
+      "city": "Madrid",
+      "region": "Europe",
+      "style": "slate-blue-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "editorial",
+      "titlePosition": "bottom",
+      "qrStyle": "dots",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": 40.4168,
+          "lng": -3.7038,
+          "name": "Madrid"
+        },
+        {
+          "lat": 37.3891,
+          "lng": -5.9845,
+          "name": "Seville"
+        },
+        {
+          "lat": 37.1773,
+          "lng": -3.5986,
+          "name": "Granada"
+        },
+        {
+          "lat": 41.3851,
+          "lng": 2.1734,
+          "name": "Barcelona"
+        }
+      ],
+      "title": "Andalusian Summer",
+      "pin_title": "Custom Travel Map of Spain | Gallery Wall Art",
+      "pin_description": "Gallery wall idea: a custom map of your Spanish adventure. Flamenco nights, Alhambra views, Barcelona coastline. Travel wall art at waymarked.com",
+      "pin_board": "Gallery Wall Ideas",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_022.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851292945",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T21:00:00Z",
+      "approved_at": "2026-03-02T01:10:00Z",
+      "posted_at": "2026-03-02T01:11:40Z"
+    },
+    {
+      "id": "gen_023",
+      "date": "2026-03-01",
+      "country": "Ireland",
+      "city": "Dublin",
+      "region": "Europe",
+      "style": "forest-moss",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "script",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 53.3498,
+          "lng": -6.2603,
+          "name": "Dublin"
+        },
+        {
+          "lat": 54.5973,
+          "lng": -5.9301,
+          "name": "Belfast"
+        },
+        {
+          "lat": 53.2707,
+          "lng": -9.0568,
+          "name": "Galway"
+        },
+        {
+          "lat": 51.8985,
+          "lng": -8.4756,
+          "name": "Cork"
+        }
+      ],
+      "title": "Wild Atlantic Dreams",
+      "pin_title": "Custom Honeymoon Map of Ireland | Romantic Travel Gift",
+      "pin_description": "Looking for a unique honeymoon gift? Create a custom map of their Ireland adventure. Rolling green hills, dramatic cliffs, ancient castles. Personalized travel keepsakes at waymarked.com",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_023.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851292958",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T21:01:00Z",
+      "approved_at": "2026-03-02T01:10:00Z",
+      "posted_at": "2026-03-02T01:12:00Z"
+    },
+    {
+      "id": "gen_024",
+      "date": "2026-03-01",
+      "country": "Switzerland",
+      "city": "Zurich",
+      "region": "Europe",
+      "style": "sepia-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "titlePosition": "top",
+      "qrStyle": "classic",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 47.3769,
+          "lng": 8.5417,
+          "name": "Zurich"
+        },
+        {
+          "lat": 47.0502,
+          "lng": 8.3093,
+          "name": "Lucerne"
+        },
+        {
+          "lat": 46.6863,
+          "lng": 7.8632,
+          "name": "Interlaken"
+        },
+        {
+          "lat": 46.0207,
+          "lng": 7.7491,
+          "name": "Zermatt"
+        }
+      ],
+      "title": "Alpine Romance",
+      "pin_title": "Custom Travel Map of Switzerland | Romantic Travel Gift",
+      "pin_description": "Know someone who just got back from Switzerland? Turn their alpine adventure into a custom map they can frame. Mountain lakes, fairytale villages, stunning vistas. Way better than another gift card. waymarked.com",
+      "pin_board": "Travel Gift Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_024.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "title color conflicts with the map too much",
+      "created_at": "2026-03-01T21:10:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_025",
+      "date": "2026-03-01",
+      "country": "Austria",
+      "city": "Vienna",
+      "region": "Europe",
+      "style": "antique",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "banner",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 48.2082,
+          "lng": 16.3738,
+          "name": "Vienna"
+        },
+        {
+          "lat": 47.8095,
+          "lng": 13.055,
+          "name": "Salzburg"
+        },
+        {
+          "lat": 47.2692,
+          "lng": 11.4041,
+          "name": "Innsbruck"
+        },
+        {
+          "lat": 47.5622,
+          "lng": 13.6493,
+          "name": "Hallstatt"
+        }
+      ],
+      "title": "Sound of the Alps",
+      "pin_title": "Custom Travel Map of Austria | Travel Photography Keepsake",
+      "pin_description": "Your Austria photos deserve more than a camera roll. From Vienna concert halls to Hallstatt lake views, turn your trip into a vintage map you can frame. Travel keepsakes at waymarked.com",
+      "pin_board": "Travel Photography Tips",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_025.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "title color conflicts with map too much, can't read it",
+      "created_at": "2026-03-01T21:11:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_026",
+      "date": "2026-03-01",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "region": "Africa",
+      "style": "pure-terrain-dramatic",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "modern",
+      "titlePosition": "bottom",
+      "qrStyle": "dots",
+      "zoom": 6,
+      "markers": [
+        {
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "name": "Nairobi"
+        },
+        {
+          "lat": -1.5044,
+          "lng": 35.1436,
+          "name": "Masai Mara"
+        },
+        {
+          "lat": -2.6527,
+          "lng": 37.2636,
+          "name": "Amboseli"
+        },
+        {
+          "lat": -4.2762,
+          "lng": 39.5942,
+          "name": "Diani Beach"
+        }
+      ],
+      "title": "Savanna Sunrise",
+      "pin_title": "Custom Travel Map of Kenya | Travel Wall Art",
+      "pin_description": "Custom travel maps that actually look good on your wall. Turn your Kenya safari into a dramatic terrain map you can frame. Travel wall art at waymarked.com",
+      "pin_board": "Travel Keepsakes and Wall Art",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_026.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851291764",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T21:12:00Z",
+      "approved_at": "2026-03-01T21:30:00Z",
+      "posted_at": "2026-03-02T00:47:46Z"
+    },
+    {
+      "id": "gen_027",
+      "date": "2026-03-01",
+      "country": "Hungary",
+      "city": "Budapest",
+      "region": "Europe",
+      "style": "pure-terrain-borders",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "stamp",
+      "titlePosition": "top",
+      "qrStyle": "classic",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 47.4979,
+          "lng": 19.0402,
+          "name": "Budapest"
+        },
+        {
+          "lat": 47.9025,
+          "lng": 20.3773,
+          "name": "Eger"
+        },
+        {
+          "lat": 46.0727,
+          "lng": 18.233,
+          "name": "P\u00e9cs"
+        },
+        {
+          "lat": 47.5316,
+          "lng": 21.6273,
+          "name": "Debrecen"
+        }
+      ],
+      "title": "Where the Danube Bends",
+      "pin_title": "Custom Travel Map of Hungary | Unique Gift for Travelers",
+      "pin_description": "Know someone who explored Hungary? Turn their adventure into a custom map they can frame. Budapest baths, Eger wine country, and the Great Plain. Way better than another gift card. waymarked.com",
+      "pin_board": "Travel Gift Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_027.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851292980",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T21:30:00Z",
+      "approved_at": "2026-03-02T01:10:00Z",
+      "posted_at": "2026-03-02T01:12:27Z"
+    },
+    {
+      "id": "gen_028",
+      "date": "2026-03-01",
+      "country": "Jordan",
+      "city": "Amman",
+      "region": "Middle East",
+      "style": "ember-atlas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "watercolor",
+      "titleStyle": "script",
+      "titlePosition": "top",
+      "qrStyle": "rounded",
+      "zoom": 7,
+      "markers": [
+        {
+          "lat": 31.9539,
+          "lng": 35.9106,
+          "name": "Amman"
+        },
+        {
+          "lat": 30.3285,
+          "lng": 35.4444,
+          "name": "Petra"
+        },
+        {
+          "lat": 29.5755,
+          "lng": 35.417,
+          "name": "Wadi Rum"
+        },
+        {
+          "lat": 29.5267,
+          "lng": 35.0077,
+          "name": "Aqaba"
+        }
+      ],
+      "title": "Sands of Petra",
+      "pin_title": "Custom Honeymoon Map of Jordan | Romantic Travel Gift",
+      "pin_description": "Looking for a unique honeymoon gift? Create a custom map of their Jordan adventure. Ancient Petra, desert dunes, and the Red Sea coast. Personalized travel keepsakes at waymarked.com",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_028.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851292996",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T21:30:00Z",
+      "approved_at": "2026-03-02T01:10:00Z",
+      "posted_at": "2026-03-02T01:12:47Z"
+    },
+    {
+      "id": "gen_029",
+      "date": "2026-03-01",
+      "country": "Chile",
+      "city": "Santiago",
+      "region": "South America",
+      "style": "nordic-frost",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "showLabels": true,
+      "markerStyle": "modern",
+      "titleStyle": "editorial",
+      "titlePosition": "bottom",
+      "qrStyle": "dots",
+      "zoom": 5,
+      "markers": [
+        {
+          "lat": -33.4489,
+          "lng": -70.6693,
+          "name": "Santiago"
+        },
+        {
+          "lat": -41.4717,
+          "lng": -72.9369,
+          "name": "Puerto Montt"
+        },
+        {
+          "lat": -51.1894,
+          "lng": -72.9534,
+          "name": "Torres del Paine"
+        }
+      ],
+      "title": "End of the World",
+      "pin_title": "Custom Travel Map of Chile | Gallery Wall Art",
+      "pin_description": "Custom travel maps that actually look good on your wall. Turn your Patagonia adventure into a dramatic map you can frame. From Santiago to the end of the earth. Travel wall art at waymarked.com",
+      "pin_board": "Gallery Wall Ideas",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_029.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851293005",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-01T21:30:00Z",
+      "approved_at": "2026-03-02T01:10:00Z",
+      "posted_at": "2026-03-02T01:13:03Z"
+    },
+    {
+      "id": "gen_030",
+      "date": "2026-03-02",
+      "country": "Maldives",
+      "city": "Mal\u00e9",
+      "region": "Asia",
+      "style": "seraphs-canvas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "markerStyle": "watercolor",
+      "titleStyle": "banner",
+      "markers": [
+        {
+          "lat": 4.1755,
+          "lng": 73.5093,
+          "name": "Mal\u00e9"
+        },
+        {
+          "lat": 5.0833,
+          "lng": 72.8666,
+          "name": "Baa Atoll"
+        },
+        {
+          "lat": -0.6234,
+          "lng": 73.1534,
+          "name": "Addu Atoll"
+        }
+      ],
+      "title": "Island Paradise",
+      "pin_title": "Custom Honeymoon Map of the Maldives | Romantic Travel Gift",
+      "pin_description": "Looking for the perfect gift for a couple who honeymooned in the Maldives? Turn their island paradise into a custom map they can frame and treasure. Personalized travel gifts at waymarked.com",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_030.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "Map too barren and zoomed out, not visually appealing",
+      "created_at": "2026-03-02T15:04:53Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_031",
+      "date": "2026-03-02",
+      "country": "Germany",
+      "city": "Berlin",
+      "region": "Europe",
+      "style": "pure-terrain-land-dark",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "markerStyle": "modern",
+      "titleStyle": "stamp",
+      "markers": [
+        {
+          "lat": 53.5753,
+          "lng": 10.0153,
+          "name": "Hamburg"
+        },
+        {
+          "lat": 52.52,
+          "lng": 13.405,
+          "name": "Berlin"
+        },
+        {
+          "lat": 48.1351,
+          "lng": 11.582,
+          "name": "Munich"
+        }
+      ],
+      "title": "Across Germany",
+      "pin_title": "Custom Travel Map of Germany | Personalized Travel Wall Art",
+      "pin_description": "Gallery wall upgrade: a custom map of Germany with your real travel memories. Hamburg, Berlin, Munich in beautiful detail. Framed travel wall art at waymarked.com",
+      "pin_board": "Gallery Wall Ideas",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_031.png",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "Dark map style needs labels to avoid looking barren/empty without them",
+      "created_at": "2026-03-02T15:04:53Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_032",
+      "date": "2026-03-02",
+      "country": "India",
+      "city": "Jaipur",
+      "region": "Asia",
+      "style": "vintage-treasure",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "markerStyle": "watercolor",
+      "titleStyle": "cartouche",
+      "markers": [
+        {
+          "lat": 26.9124,
+          "lng": 75.7873,
+          "name": "Jaipur"
+        },
+        {
+          "lat": 26.2389,
+          "lng": 73.0243,
+          "name": "Jodhpur"
+        },
+        {
+          "lat": 24.5854,
+          "lng": 73.7125,
+          "name": "Udaipur"
+        }
+      ],
+      "title": "Colours of Rajasthan",
+      "pin_title": "Custom Travel Map of Rajasthan, India | Personalized Travel Gift",
+      "pin_description": "Know someone who explored the palaces and deserts of Rajasthan? Turn their journey into a custom map they can frame and keep forever. Unique personalized travel gifts at waymarked.com",
+      "pin_board": "Travel Gift Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_032.png",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851321961",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-02T15:04:53Z",
+      "approved_at": "2026-03-02T15:10:00Z",
+      "posted_at": "2026-03-02T15:10:16Z"
+    }
+  ],
+  "countries_used": [
+    "Portugal",
+    "Japan",
+    "Morocco",
+    "New Zealand",
+    "Greece",
+    "Colombia",
+    "Vietnam",
+    "Scotland",
+    "Mexico",
+    "Indonesia",
+    "Croatia",
+    "Peru",
+    "Czech Republic",
+    "Norway",
+    "Thailand",
+    "Turkey",
+    "South Africa",
+    "Italy",
+    "Australia",
+    "Iceland",
+    "France",
+    "Spain",
+    "Ireland",
+    "Switzerland",
+    "Austria",
+    "Kenya",
+    "Hungary",
+    "Jordan",
+    "Chile",
+    "Maldives",
+    "Germany",
+    "India"
+  ],
+  "cities_used": [
+    "Lisbon",
+    "Porto",
+    "Faro",
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Hiroshima",
+    "Marrakech",
+    "Rabat",
+    "Casablanca",
+    "Merzouga",
+    "Queenstown",
+    "Milford Sound",
+    "Christchurch",
+    "Hokitika",
+    "Santorini",
+    "Mykonos",
+    "Crete",
+    "Bogot\u00e1",
+    "Medell\u00edn",
+    "Cartagena",
+    "Salento",
+    "Hanoi",
+    "Hoi An",
+    "Da Nang",
+    "Ho Chi Minh",
+    "Edinburgh",
+    "Inverness",
+    "Fort William",
+    "Isle of Mull",
+    "Mexico City",
+    "M\u00e9rida",
+    "Tulum",
+    "Canc\u00fan",
+    "Ubud",
+    "Seminyak",
+    "Lombok",
+    "Nusa Penida",
+    "Split",
+    "Dubrovnik",
+    "Zagreb",
+    "Zadar",
+    "Lima",
+    "Cusco",
+    "Machu Picchu",
+    "Arequipa",
+    "Prague",
+    "Cesky Krumlov",
+    "Karlovy Vary",
+    "Brno",
+    "Oslo",
+    "Bergen",
+    "Alesund",
+    "Troms\u00f8",
+    "Bangkok",
+    "Chiang Mai",
+    "Phuket",
+    "Koh Samui",
+    "Istanbul",
+    "Cappadocia",
+    "Antalya",
+    "Ephesus",
+    "Cape Town",
+    "Johannesburg",
+    "Kruger",
+    "Durban",
+    "Florence",
+    "Rome",
+    "Venice",
+    "Amalfi",
+    "Sydney",
+    "Melbourne",
+    "Cairns",
+    "Uluru",
+    "Reykjavik",
+    "Vik",
+    "Akureyri",
+    "Jokulsarlon",
+    "Paris",
+    "Lyon",
+    "Bordeaux",
+    "Nice",
+    "Madrid",
+    "Seville",
+    "Granada",
+    "Barcelona",
+    "Dublin",
+    "Belfast",
+    "Galway",
+    "Cork",
+    "Zurich",
+    "Lucerne",
+    "Interlaken",
+    "Zermatt",
+    "Vienna",
+    "Salzburg",
+    "Innsbruck",
+    "Hallstatt",
+    "Nairobi",
+    "Masai Mara",
+    "Amboseli",
+    "Diani Beach",
+    "Budapest",
+    "Eger",
+    "P\u00e9cs",
+    "Debrecen",
+    "Amman",
+    "Petra",
+    "Wadi Rum",
+    "Aqaba",
+    "Santiago",
+    "Puerto Montt",
+    "Torres del Paine",
+    "Mal\u00e9",
+    "Baa Atoll",
+    "Addu Atoll",
+    "Hamburg",
+    "Berlin",
+    "Munich",
+    "Jaipur",
+    "Jodhpur",
+    "Udaipur"
+  ],
+  "regions_used": [
+    "Europe",
+    "Asia",
+    "Africa",
+    "Oceania",
+    "South America",
+    "North America",
+    "Middle East"
+  ],
+  "styles_used": [
+    "coastal-blue",
+    "ink-sketch",
+    "desert-sand",
+    "pure-terrain-land-charcoal",
+    "ink-paper",
+    "sepia",
+    "antique",
+    "terracotta-sketch",
+    "ember-atlas",
+    "sage-green-sketch",
+    "midnight-noir",
+    "explorers-atlas",
+    "dusty-rose-sketch",
+    "nordic-frost",
+    "earth-atlas",
+    "botanical-garden",
+    "rose",
+    "pure-terrain-dramatic",
+    "vintage-treasure",
+    "monochrome",
+    "pure-terrain-ocean-dark",
+    "pure-terrain-cool",
+    "parchment",
+    "slate-blue-sketch",
+    "forest-moss",
+    "sepia-sketch",
+    "pure-terrain-borders",
+    "seraphs-canvas",
+    "pure-terrain-land-dark"
+  ],
+  "boards_used": {
+    "Custom Travel Maps": 2,
+    "Travel Gift Ideas": 7,
+    "Honeymoon Destinations": 6,
+    "Anniversary Trip Ideas": 4,
+    "Travel Keepsakes and Wall Art": 5,
+    "Travel Photography Tips": 4,
+    "Places to Visit in 2026": 4,
+    "Gallery Wall Ideas": 6
+  },
+  "angles_used": {
+    "your_trip": 10,
+    "gift_for": 16,
+    "wall_art": 12
+  },
+  "total_generated": 32,
+  "total_posted": 16
+}
