@@ -460,23 +460,23 @@ Rotate these evenly. Track the angle used in the audit log (`description_angle` 
 **Angle 1: "Your Trip" (traveler voice)**
 Speak directly to someone who took the trip. Make them picture their own photos on a map.
 
-Good: "Your Italian coast photos deserve more than a camera roll. Turn them into a custom vintage map you'll actually want to frame. waymarked.com/create"
+Good: "Your Italian coast photos deserve more than a camera roll. Turn them into a custom vintage map you'll actually want to frame."
 
-Good: "Remember that week in Iceland? Put your photos on a map and relive every stop. Custom travel keepsakes at waymarked.com/create"
+Good: "Remember that week in Iceland? Put your photos on a map and relive every stop. The custom travel keepsake you'll actually hang on your wall."
 
 **Angle 2: "Gift For" (gift-giver voice)**
 Speak to someone buying a gift for a traveler. Emphasize uniqueness, personalization, the "wow" factor.
 
-Good: "Know someone who just got back from Japan? Turn their trip into a custom map they can frame. Way better than another gift card. waymarked.com/blog/best-travel-gifts-2026"
+Good: "Know someone who just got back from Japan? Turn their trip into a custom map they can frame. Way better than another gift card."
 
-Good: "Looking for a unique anniversary gift? Create a custom map of where you honeymooned. Personalized travel wall art at waymarked.com/blog/best-honeymoon-gifts"
+Good: "Looking for a unique anniversary gift? Create a custom map of where you honeymooned. Personalized travel wall art they'll actually love."
 
 **Angle 3: "Wall Art / Decor" (home decor voice)**
 Speak to someone browsing gallery wall ideas, home decor, or travel wall art. Emphasize the visual, the aesthetic, framing.
 
-Good: "Custom travel maps that actually look good on your wall. Pick your destinations, upload your photos, get a vintage map you'll want to frame. waymarked.com/create"
+Good: "Custom travel maps that actually look good on your wall. Pick your destinations, upload your photos, choose a vintage style. The travel decor piece you've been looking for."
 
-Good: "Gallery wall idea: a custom map of everywhere you've been. Vintage style, your real trip photos. Travel wall art at waymarked.com/create"
+Good: "Gallery wall idea: a custom map of everywhere you've been. Vintage style, your real trip photos. Travel wall art that tells your story."
 
 ### Smart Link Strategy
 
@@ -498,13 +498,13 @@ Read the frontmatter of each post (title, slug, tags, category) to understand wh
 - Wall art / decor pin → `waymarked.com/create` (until a decor blog post exists)
 - No match → `waymarked.com/create`
 
-**Also update the `link` field in the Pinterest API payload** to match the description URL. This is the URL Pinterest uses for outbound clicks.
+**Set the `link` field in the Pinterest API payload** to the matched URL. This is the only clickable link on the pin and where all outbound traffic goes. Also save it in the `pin_link` field of audit.json.
 
 ### Description Rules
 
 1. Match the angle to the target board (see board strategy below)
 2. Include 1-2 SEO keywords naturally (see keyword list)
-3. End with the smart link URL (see Smart Link Strategy above)
+3. Do NOT put URLs in the description text — they are not clickable on Pinterest and waste characters. The smart link goes in the API `link` field only.
 4. 150-300 characters
 5. NEVER use em dashes
 
