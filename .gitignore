@@ -13,6 +13,7 @@ cron.log
 # Runtime state
 .run-reviews
 processed-issues.txt
+pending-review.md
 
 # Claude Code
 .claude/
