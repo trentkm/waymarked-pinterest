@@ -6,18 +6,53 @@ echo "[$(date)] Starting blog draft generation..." >> ~/waymarked-pinterest/cron
 
 cd ~/repos/waymarked
 git checkout main
+git reset --hard origin/main
 git pull origin main
 
 CLAUDECODE= claude --dangerously-skip-permissions -p "You are the Waymarked blog writer.
 
 1. Read ~/waymarked-pinterest/learnings.md for brand voice and insights
-2. Read the content/blog/ directory to see what posts already exist
+2. Read the content/blog/ directory — read the frontmatter of every existing .mdx file (title, slug, category, tags)
 3. Read ~/waymarked-pinterest/waymarked-pinterest.md for SEO keywords and brand knowledge
-4. Pick a topic that does NOT already exist as a blog post. Prioritize these topics in order:
-   - Gift guides (travel gifts, honeymoon gifts, anniversary gifts)
-   - Travel wall art / home decor
-   - Travel memory preservation
-   - Specific occasion content
+
+4. TOPIC SELECTION — follow this process exactly:
+
+   The blog is organized into three topical clusters. Google rewards depth within a cluster over breadth across topics.
+   Completing a cluster (4-6 tightly related posts) before expanding is the strategy.
+
+   CLUSTER A — Gift Guides (category: gift-guides)
+   Goal: 6 posts. Target posts (write these before anything else in this cluster):
+   - Pillar: \"Best Custom Map Gifts for Every Occasion\" (slug: best-custom-map-gifts)
+   - \"Custom Map Gifts for Weddings\" (slug: custom-map-gifts-weddings)
+   - \"Graduation Gifts for Travelers\" (slug: graduation-gifts-travelers)
+   - \"Birthday Gifts for Travel Lovers\" (slug: birthday-gifts-travel-lovers)
+   - \"Housewarming Gifts for Travelers\" (slug: housewarming-gifts-travelers)
+   - \"Christmas Gifts for Travelers\" (slug: christmas-gifts-travelers)
+   Already written: best-anniversary-gifts, best-honeymoon-gifts, best-travel-gifts-2026 count toward this cluster.
+
+   CLUSTER B — Map Wall Art (category: wall-art)
+   Goal: 5 posts. Target posts:
+   - Pillar: \"Custom Map Wall Art: The Complete Guide\" (slug: custom-map-wall-art-guide)
+   - \"Gallery Wall Ideas with Travel Maps\" (slug: gallery-wall-ideas-travel-maps)
+   - \"Vintage Map Prints for Home Decor\" (slug: vintage-map-prints-home-decor)
+   - \"How to Frame a Custom Map Print\" (slug: how-to-frame-custom-map)
+   - \"Minimalist Map Art for Modern Homes\" (slug: minimalist-map-art-modern-homes)
+
+   CLUSTER C — Travel & Trip Documentation (category: travel-maps)
+   Goal: 5 posts. Target posts:
+   - Pillar: \"How to Create a Custom Travel Map\" (slug: how-to-create-custom-travel-map)
+   - \"How to Document Your Travels\" (slug: how-to-document-travels)
+   - \"Best Honeymoon Destinations to Map\" (slug: best-honeymoon-destinations-map)
+   - \"How to Turn Trip Photos into Wall Art\" (slug: trip-photos-into-wall-art)
+   - \"Road Trip Route Maps: A Custom Keepsake Idea\" (slug: road-trip-route-maps)
+
+   PROCESS:
+   a. For each cluster, count how many target posts already exist in content/blog/ (match by slug or close equivalent)
+   b. Pick the cluster with the fewest existing posts
+   c. Within that cluster, write the pillar post first if it doesn't exist. Otherwise write whichever target post is missing.
+   d. If a cluster is complete (all target posts exist), move to the next least-complete cluster.
+   e. NEVER write a post whose slug or topic is already covered by an existing post.
+
 5. Write a complete blog post as an .mdx file with proper frontmatter:
    ---
    title: \"Post Title Here\"

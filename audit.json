@@ -1653,6 +1653,216 @@
       "created_at": "2026-03-04T00:00:00Z",
       "approved_at": "2026-03-04T00:00:00Z",
       "posted_at": "2026-03-04T14:40:07.491130+00:00"
+    },
+    {
+      "id": "gen_036",
+      "date": "2026-03-05",
+      "country": "Egypt",
+      "city": "Cairo",
+      "region": "Africa",
+      "style": "sepia-sketch",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "markers": [
+        {
+          "lat": 30.0444,
+          "lng": 31.2357,
+          "name": "Cairo"
+        },
+        {
+          "lat": 25.6872,
+          "lng": 32.6396,
+          "name": "Luxor"
+        },
+        {
+          "lat": 24.0889,
+          "lng": 32.8998,
+          "name": "Aswan"
+        }
+      ],
+      "title": "Down the Nile",
+      "pin_title": "Custom Travel Map of Egypt | Travel Photography Keepsake",
+      "pin_description": "Remember that week following the Nile? Your photos of Cairo, Luxor, and Aswan deserve more than a camera roll. Turn them into a custom map you can frame and keep forever.",
+      "pin_board": "Travel Photography Tips",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_036.png",
+      "pin_link": "https://waymarked.com/create",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "Title overlaps with a river of the same color, making it unreadable. Style and map look great \u2014 needs a contrasting title color.",
+      "created_at": "2026-03-05T00:00:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_037",
+      "date": "2026-03-05",
+      "country": "Cuba",
+      "city": "Havana",
+      "region": "Caribbean",
+      "style": "ember-atlas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "markers": [
+        {
+          "lat": 23.1136,
+          "lng": -82.3666,
+          "name": "Havana"
+        },
+        {
+          "lat": 21.8051,
+          "lng": -79.9949,
+          "name": "Trinidad"
+        },
+        {
+          "lat": 22.6156,
+          "lng": -83.7147,
+          "name": "Vi\u00f1ales"
+        }
+      ],
+      "title": "Havana Nights",
+      "pin_title": "Custom Travel Map of Cuba | Anniversary Gift Idea",
+      "pin_description": "Know someone celebrating an anniversary trip to Cuba? Turn their Havana memories into a custom framed map. The personalized gift they will actually hang on the wall.",
+      "pin_board": "Anniversary Trip Ideas",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_037.png",
+      "pin_link": "https://waymarked.com/blog/best-honeymoon-gifts",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "Map density doesn't suit the ink-and-paper aesthetic of ember-atlas style.",
+      "created_at": "2026-03-05T00:00:00Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_038",
+      "date": "2026-03-05",
+      "country": "Singapore",
+      "city": "Singapore",
+      "region": "Asia",
+      "style": "seraphs-canvas",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "markers": [
+        {
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "name": "Singapore"
+        }
+      ],
+      "title": "City of Gardens",
+      "pin_title": "Custom Travel Map of Singapore | Vintage Travel Wall Art",
+      "pin_description": "Gallery wall idea: a custom map of Singapore in an ornate vintage style. Detailed street-level cartography that turns one city into a work of art. Travel decor that actually impresses.",
+      "pin_board": "Gallery Wall Ideas",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_038.png",
+      "pin_link": "https://waymarked.com/create",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851497035",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-05T00:00:00Z",
+      "approved_at": "2026-03-05T00:00:00Z",
+      "posted_at": "2026-03-05T14:17:00Z"
+    },
+    {
+      "id": "gen_039",
+      "date": "2026-03-06",
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "region": "South America",
+      "style": "parchment",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "markers": [
+        {
+          "lat": -22.9068,
+          "lng": -43.1729,
+          "name": "Rio de Janeiro"
+        }
+      ],
+      "title": "Summer in Rio",
+      "pin_title": "Custom Honeymoon Map of Rio de Janeiro | Personalized Romantic Gift",
+      "pin_description": "Know someone planning a honeymoon? A custom map of Rio makes a gift they'll hang on the wall long after the trip. Personalized travel wall art for the couple who has everything.",
+      "pin_board": "Honeymoon Destinations",
+      "description_angle": "gift_for",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_039.png",
+      "pin_link": "https://waymarked.com/blog/best-honeymoon-gifts",
+      "pinterest_url": "https://pinterest.com/pin/1111544751851584381",
+      "status": "posted",
+      "rejection_reason": null,
+      "created_at": "2026-03-06T22:31:16Z",
+      "approved_at": "2026-03-06T22:36:31Z",
+      "posted_at": "2026-03-06T22:36:31Z"
+    },
+    {
+      "id": "gen_040",
+      "date": "2026-03-06",
+      "country": "Tanzania",
+      "city": "Serengeti",
+      "region": "Africa",
+      "style": "vintage-treasure",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "poster",
+      "markers": [
+        {
+          "lat": -2.3333,
+          "lng": 34.8333,
+          "name": "Serengeti"
+        },
+        {
+          "lat": -3.3731,
+          "lng": 37.3356,
+          "name": "Kilimanjaro"
+        },
+        {
+          "lat": -6.163,
+          "lng": 39.198,
+          "name": "Zanzibar"
+        }
+      ],
+      "title": "Safari & Spice",
+      "pin_title": "Custom Safari Map of Tanzania | Vintage Travel Wall Art",
+      "pin_description": "From the Serengeti plains to the spice markets of Zanzibar. A custom safari map done in vintage style, ready to frame. Gallery wall travel art that actually means something.",
+      "pin_board": "Places to Visit in 2026",
+      "description_angle": "wall_art",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_040.png",
+      "pin_link": "https://waymarked.com/create",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "Title unreadable: banner title on vintage-treasure style lacks sufficient contrast \u2014 title text not legible",
+      "created_at": "2026-03-06T22:31:16Z",
+      "approved_at": null,
+      "posted_at": null
+    },
+    {
+      "id": "gen_041",
+      "date": "2026-03-06",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "region": "Asia",
+      "style": "forest-moss",
+      "layout": "bottom-bar",
+      "bottomBarStyle": "horizontal",
+      "markers": [
+        {
+          "lat": 25.033,
+          "lng": 121.5654,
+          "name": "Taipei"
+        }
+      ],
+      "title": "Taipei Streets",
+      "pin_title": "Custom Travel Map of Taipei | Travel Photography Keepsake",
+      "pin_description": "Those Taipei photos deserve better than a camera roll. Turn your trip into a custom travel map printed in your style. The travel keepsake you'll actually hang on the wall.",
+      "pin_board": "Travel Photography Tips",
+      "description_angle": "your_trip",
+      "image_path": "/Users/trent/waymarked-pinterest/exports/gen_041.png",
+      "pin_link": "https://waymarked.com/create",
+      "pinterest_url": null,
+      "status": "rejected",
+      "rejection_reason": "Title not visible: modern title on forest-moss style lacks sufficient contrast \u2014 title text not legible",
+      "created_at": "2026-03-06T22:31:16Z",
+      "approved_at": null,
+      "posted_at": null
     }
   ],
   "countries_used": [
@@ -1690,7 +1900,13 @@
     "India",
     "Netherlands",
     "Argentina",
-    "South Korea"
+    "South Korea",
+    "Egypt",
+    "Cuba",
+    "Singapore",
+    "Brazil",
+    "Tanzania",
+    "Taiwan"
   ],
   "cities_used": [
     "Lisbon",
@@ -1825,7 +2041,19 @@
     "Bariloche",
     "Seoul",
     "Busan",
-    "Jeju"
+    "Jeju",
+    "Cairo",
+    "Luxor",
+    "Aswan",
+    "Havana",
+    "Trinidad",
+    "Vi\u00f1ales",
+    "Singapore",
+    "Rio de Janeiro",
+    "Serengeti",
+    "Kilimanjaro",
+    "Zanzibar",
+    "Taipei"
   ],
   "regions_used": [
     "Europe",
@@ -1834,7 +2062,8 @@
     "Oceania",
     "South America",
     "North America",
-    "Middle East"
+    "Middle East",
+    "Caribbean"
   ],
   "styles_used": [
     "coastal-blue",
@@ -1870,18 +2099,18 @@
   "boards_used": {
     "Custom Travel Maps": 3,
     "Travel Gift Ideas": 7,
-    "Honeymoon Destinations": 6,
-    "Anniversary Trip Ideas": 5,
+    "Honeymoon Destinations": 7,
+    "Anniversary Trip Ideas": 6,
     "Travel Keepsakes and Wall Art": 5,
-    "Travel Photography Tips": 4,
-    "Places to Visit in 2026": 5,
-    "Gallery Wall Ideas": 6
+    "Travel Photography Tips": 6,
+    "Places to Visit in 2026": 6,
+    "Gallery Wall Ideas": 7
   },
   "angles_used": {
-    "your_trip": 11,
-    "gift_for": 17,
-    "wall_art": 13
+    "your_trip": 13,
+    "gift_for": 19,
+    "wall_art": 15
   },
-  "total_generated": 35,
-  "total_posted": 18
+  "total_generated": 41,
+  "total_posted": 19
 }

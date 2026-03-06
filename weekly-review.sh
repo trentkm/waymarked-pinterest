@@ -16,14 +16,24 @@ CLAUDECODE= claude --dangerously-skip-permissions -p "You are the Waymarked week
 3. Read ~/waymarked-pinterest/learnings.md (working memory — combo observations, rejection log, experiments)
 4. Read ~/waymarked-pinterest/waymarked-pinterest.md — specifically the Graduated Rules section (permanent memory)
 
+## Pin Age Cohorts — CRITICAL
+
+Before any analysis, calculate the age of each posted pin using its posted_at field from audit.json compared to today's date. Group all posted pins into three cohorts:
+
+- YOUNG (under 4 weeks old): Do NOT draw any conclusions from these. Pinterest is still testing them with small audiences. Zero impressions or saves is normal and expected. Never flag these as distribution issues.
+- EARLY (4-12 weeks old): Treat as early signal only. Patterns may be emerging but are not confirmed. Note observations but do not graduate rules based solely on this cohort.
+- MATURE (12+ weeks old): Reliable signal. Use this cohort for rule graduation and confident combo conclusions.
+
+When reporting analytics, always state the pin's age and cohort. Never compare a YOUNG pin's performance to a MATURE pin's performance as if they are equivalent.
+
 ## Analysis: Correlate Performance with Combos
 
-Cross-reference pin-metrics.json with audit.json to answer:
+Cross-reference pin-metrics.json with audit.json to answer, for EARLY and MATURE pins only:
 - Which style × destination-type combos get the most impressions?
 - Which angle × region combos drive saves and clicks?
 - Which boards have the best engagement?
-- Are outbound clicks happening? (If 0, note as link strategy issue)
-- Do any approved pins have zero impressions? (Flag as potential SEO/distribution issue)
+- Are outbound clicks happening? (If 0 across all MATURE pins, note as link strategy issue)
+- Do any MATURE pins (12+ weeks) have zero impressions? (Flag as potential SEO/distribution issue)
 - Does Pinterest data contradict or confirm the approval-based patterns?
 
 IMPORTANT: Always think in combinations. A style is not good or bad alone — it depends on what it was paired with.
@@ -38,7 +48,7 @@ IMPORTANT: Always think in combinations. A style is not good or bad alone — it
 
 ## Graduation: learnings.md → Skill File
 
-Check if any combo observation in learnings.md has 3+ supporting data points AND is confirmed by Pinterest analytics (not just approval data). If so:
+Check if any combo observation in learnings.md has 3+ supporting data points AND is confirmed by Pinterest analytics from MATURE pins (12+ weeks old, not just approval data). Do not graduate rules based on YOUNG or EARLY pin analytics alone. If criteria are met:
 
 1. Write the rule into ~/waymarked-pinterest/waymarked-pinterest.md under the Graduated Rules section, in the appropriate subsection (Angle Rules, Style Rules, Composition Rules, or Link Rules)
 2. Remove the graduated raw data from learnings.md (keep a one-line note: 'Graduated to skill file on YYYY-MM-DD')

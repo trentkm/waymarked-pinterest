@@ -6,6 +6,7 @@ echo "[$(date)] Starting pin generation..." >> ~/waymarked-pinterest/cron.log
 
 cd ~/repos/waymarked
 git checkout main
+git reset --hard origin/main
 git pull origin main
 
 # Snapshot existing exports before generation
