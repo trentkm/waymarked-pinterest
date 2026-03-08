@@ -12,7 +12,7 @@ git pull origin main
 # Snapshot existing exports before generation
 BEFORE_FILES=$(ls ~/waymarked-pinterest/exports/*.png 2>/dev/null | sort)
 
-CLAUDECODE= claude --dangerously-skip-permissions -p "You are the Waymarked Pinterest automation.
+CLAUDECODE= /opt/homebrew/bin/gtimeout 600 claude --dangerously-skip-permissions -p "You are the Waymarked Pinterest automation.
 
 1. Read ~/waymarked-pinterest/learnings.md for rules and preferences
 2. Read ~/waymarked-pinterest/audit.json for generation history
